@@ -19,7 +19,7 @@ masterpiece, (1grirl : 1.0), (flower : 1.0), (tree : 1.0), (sky : 1.7)
 
 ## Prompt alternating
 
-![image](https://github.com/qwg12/AI_Project_2025_01/blob/main/Img2img/00001-3456916645.png?raw=true)
+![image](https://github.com/qwg12/AI_Project_2025_01/blob/main/Img2img/Prompt/00001-3456916645.png?raw=true)
 
 >Prompt
 masterpiece, steampunk
